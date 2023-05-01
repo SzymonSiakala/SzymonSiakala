@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-    <img class="animated-gif" height="300px" src="https://media.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif">
+    <img class="banner" height="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/870a5bad0fb4b786132a5baec01d8cc67cee3427/banner_statistics.jpg">
 </div>
 <br>
 
