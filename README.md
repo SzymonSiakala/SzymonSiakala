@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-    <img class="banner" height="850px" width="450px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/870a5bad0fb4b786132a5baec01d8cc67cee3427/banner_statistics.jpg">
+    <img class="banner" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/870a5bad0fb4b786132a5baec01d8cc67cee3427/banner_statistics.jpg">
 </div>
 <br>
 
