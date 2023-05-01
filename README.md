@@ -85,7 +85,6 @@
 <!-- Icons resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://www.flaticon.com/ -->
-<hr>
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/szymon-siąkała/" target="_blank" rel="noreferrer">
         <img  alt="LinkedIn" height="35px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
