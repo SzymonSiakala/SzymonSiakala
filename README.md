@@ -74,7 +74,7 @@
 
 ![Szymon Siąkała's GitHub Stats](https://github-readme-stats-psi-orcin.vercel.app/api?username=SzymonSiakala&hide=stars&count_private=true&show_icons=true&theme=gruvbox&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats-psi-orcin.vercel.app/api/top-langs/?username=SzymonSiakala&layout=compact&show_icons=true&theme=gruvbox&border_radius=20)
+![Most Used Languages](https://github-readme-stats-psi-orcin.vercel.app/api/top-langs/?username=SzymonSiakala&layout=compact&show_icons=true&theme=gruvbox&border_radius=20&hide=JavaScript)
 </div>
 
 <!-- Footer -->
