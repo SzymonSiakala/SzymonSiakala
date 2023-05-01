@@ -1,7 +1,10 @@
 <!-- Bio -->
 <h1 style="color: #B39700"> <b> Szymon Siąkała </b> </h1>
 
-<!-- GIF -->
+<div align="center">
+    <img class="banner" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/93a8fb549cf3b9b865056c1de75a9f2fbb151b29/banner_statistics.jpg">
+</div>
+<br>
 
 <p align="justify">
     I am a Data Science student at Silesian University of Technology in Gliwice who loves new technologies, AI, and IT. In the rapidly changing tech industry, I am always eager to learn and develop new skills. My passion for innovation and curiosity have led me in my life, and I am constantly looking for new opportunities to expand my knowledge and expertise. With an interest in the intersection of technology and business, I am excited to start a career in data science and help drive innovation and progress in the field.
@@ -62,11 +65,6 @@
 
 <!-- Statistics -->
 <h2 style="color: #B39700"> <b> 📊 Statistics 📊 </b> </h2>
-<br>
-
-<div align="center">
-    <img class="banner" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/93a8fb549cf3b9b865056c1de75a9f2fbb151b29/banner_statistics.jpg">
-</div>
 <br>
 
 <!-- Stats cards resources -->
