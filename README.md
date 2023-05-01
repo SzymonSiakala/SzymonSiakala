@@ -74,8 +74,6 @@
 
 ![Szymon Siąkała's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonSiakala&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SzymonSiakala&count_private=true&theme=algolia&border_radius=20)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSiakala&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
