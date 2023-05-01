@@ -2,7 +2,7 @@
 <h1 style="color: #B39700"> <b> Szymon Siąkała </b> </h1>
 
 <div align="center">
-    <img class="banner" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/main/my_banner.jpg">
+    <img class="banner" width="850px" src="https://raw.githubusercontent.com/SzymonSiakala/SzymonSiakala/main/banner.jpg">
 </div>
 <br>
 
