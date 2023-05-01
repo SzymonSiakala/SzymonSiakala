@@ -11,7 +11,6 @@
 
 <!-- Languages and Tools -->
 <h2 style="color: #B39700"> <b> ⚙️ Languages and Tools ⚙️ </b> </h2>
-<hr>
 <br>
 
 <!-- Icons resources -->
@@ -63,7 +62,6 @@
 
 <!-- Statistics -->
 <h2 style="color: #B39700"> <b> 📊 Statistics 📊 </b> </h2>
-<hr>
 <br>
 
 <div align="center">
