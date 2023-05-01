@@ -72,9 +72,9 @@
 <!-- Streak stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <div align="center">
 
-![Szymon Siąkała's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonSiakala&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Szymon Siąkała's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonSiakala&hide=stars&count_private=true&show_icons=true&theme=merko&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSiakala&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSiakala&layout=compact&show_icons=true&theme=merko&border_radius=20)
 </div>
 
 <!-- Footer -->
