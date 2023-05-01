@@ -7,7 +7,7 @@
 <br>
 
 <p align="justify">
-    I am a Data Science student at Silesian University of Technology in Gliwice who loves new technologies, AI, and IT. In the rapidly changing tech industry, I am always eager to learn and develop new skills. My passion for innovation and curiosity have led me in my life, and I am constantly looking for new opportunities to expand my knowledge and expertise. With an interest in the intersection of technology and business, I am excited to start a career in data science and help drive innovation and progress in the field.
+I am a Data Science student at Silesian University of Technology in Gliwice who loves new technologies, AI, and IT. In the rapidly changing tech industry, I am always eager to learn and develop new skills. My passion for innovation and curiosity lead me through life and I am constantly looking for new opportunities to expand my knowledge and experience. Interested in a combination of technology and business, I look forward to starting my career in data science and helping to develop this field of knowledge.
 </p>
 <br>
 <br>
